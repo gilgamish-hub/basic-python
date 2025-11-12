@@ -22,10 +22,3 @@ This repository contains Python programs demonstrating the use of **functions** 
 
 **File:** `math_module_operations.py`
 
----
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
-x 
